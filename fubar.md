@@ -12,4 +12,5 @@ a sponge bob
 what goes up and doesnt come down?
 
 Hello, I'm Ted!
+Hi Ted, I'm Ted too!
 
