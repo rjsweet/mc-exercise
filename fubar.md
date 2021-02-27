@@ -1,4 +1,7 @@
 
+Bob is making a change to the file.
+
+
 This is bob. Bob hungry.
 
 
@@ -13,4 +16,5 @@ what goes up and doesnt come down?
 
 Hello, I'm Ted!
 Hi Ted, I'm Ted too!
+
 
